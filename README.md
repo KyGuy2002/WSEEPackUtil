@@ -26,5 +26,4 @@ If you use a CI system like GitHub Actions you could automatically release the W
 The server can download these files on startup and use them to load the models.
 
 ## Example
-See: [EXAMPLE_USAGE.bat](blob/master/EXAMPLE_USAGE.bat)
-```bat
+See: [EXAMPLE_USAGE.bat](EXAMPLE_USAGE.bat)
